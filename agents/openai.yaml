@@ -1,0 +1,4 @@
+interface:
+  display_name: "ai记忆"
+  short_description: "一句话创建项目文档、整理资料、保存交接；Project docs and memory"
+  default_prompt: "使用 $ai-memory 查看当前项目和已有文档，补齐必要说明与交接；沿用现有目录和真实信息，用最简方式记录进展，方便下次继续。"
